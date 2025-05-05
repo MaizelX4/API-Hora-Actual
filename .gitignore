@@ -1,0 +1,20 @@
+# Ignorar archivos de prueba
+prueba_api.py
+
+# Ignorar archivos y carpetas temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignorar entornos virtuales (si los usas)
+venv/
+env/
+
+# Ignorar archivos comprimidos
+*.zip
+
+# Archivos del sistema (por si usas Windows)
+Thumbs.db
+.DS_Store
